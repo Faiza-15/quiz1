@@ -1,0 +1,41 @@
+.first{
+    display: flex;
+}
+
+.second{
+    display: flex;
+    
+}
+
+.s2{
+    margin-left: 5%;
+}
+.s3{
+    margin-left: 5%;
+}
+.s4{
+    margin-left: 5%;
+}
+
+.box2{
+    margin-left: 10%;
+}
+
+.boxes{
+    display: flex;
+}
+.box1{
+    background-color: antiquewhite;
+    border: 1px;
+    margin: 10px;
+    height: 200px;
+    width: 100px;
+}
+
+.box2{
+    background-color: antiquewhite;
+    border: 1px;
+    margin: 10px;
+    height: 100;
+    width: 50px;
+}
